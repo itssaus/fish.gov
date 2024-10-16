@@ -3,8 +3,6 @@
 ![fish](https://github.com/itssaus/fish.gov/blob/main/3-5-3-1.jpg?raw=true)
 #### *fish.gov is a site for fun only. it is not an actual goverment website.*
 This is a website for Phil's Fish Society <br>
-☞ [Youtube](https://www.youtube.com/channel/UCmVDr5h2Zo-H-LOxpOXA-kg)<br>
-☞ [Site](itssaus.github.io/fish.gov)<br>
 <br>
 ### 🐟 **website features**
 <br>
